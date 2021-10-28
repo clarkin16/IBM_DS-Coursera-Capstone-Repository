@@ -1,2 +1,13 @@
 # IBM_DS Coursera-Capstone
-Files of the IBM Professional Certificate in Data Science on Coursera.
+
+Contains:
+Files required for the SpaceX Capstone Project for the IBM Professional Certificate in Data Science on Coursera.
+
+Labs labeled chronologically.
+
+
+
+
+
+__________________________
+By Conor E. Larkin
