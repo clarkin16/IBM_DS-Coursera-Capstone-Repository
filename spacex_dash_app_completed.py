@@ -2,7 +2,7 @@
 # Week 3 Lab - SpaceX Dashboard Application
 # 
 # Conor E. Larkin
-# 
+#  
 #----------------------------------------------
 
 # Import required libraries
