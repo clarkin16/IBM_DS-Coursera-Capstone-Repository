@@ -3,8 +3,10 @@
 Contains:
 Files required for the SpaceX Capstone Project for the IBM Professional Certificate in Data Science on Coursera.
 
-Labs labeled chronologically.
-
+- 8 labs, including the interactive dashboard lab done in a diffrent environment.
+- Final Presentation
+- Readme
+- License
 
 
 
